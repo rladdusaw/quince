@@ -1,0 +1,7 @@
+{
+    "name": "quince",
+    "version": "0.1.0",
+    "description": "TypeScript Physics Engine",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts"
+}
